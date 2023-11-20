@@ -1,0 +1,11 @@
+Jawaban UTS
+No1. framework dalam pengembangan aplikasi adalah kerangka kerja atau
+struktur yang sudah disiapkan untuk membantu pengembang dalam membangun suatu aplikasi.
+
+No2.
+1) Laundry
+2) Yehezkiel Junior 22416255201029 (Desain)
+   Tingting Santosa 22416255201158 (coder)
+   Nabil M Ramadhani 22416255201184 (jurnal)
+3) Masalahnya : pendataan customer, yang bisa membuat produk bisa tertukar karena kesamaan nama.
+   Usulannya : memberi kode unik untuk setiap customer pada saat memasukan data ke sistem
